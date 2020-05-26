@@ -1,0 +1,32 @@
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\Semmelweis Drive.csprojAssemblyReference.cache
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\Semmelweis Drive.csproj.CoreCompileInputs.cache
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\le\Semmelweis Drive.exe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\be\Semmelweis Drive.exe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\le\Semmelweis Drive.pdb
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\be\Semmelweis Drive.pdb
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\Semmelweis Drive.exe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\Semmelweis Drive.pdb
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\le\Semmelweis Drive.pe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\le\Semmelweis Drive.pdbx
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\be\Semmelweis Drive.pe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\be\Semmelweis Drive.pdbx
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\LE\CTRE.pe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\LE\ctre_netmf_native.pe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\BE\CTRE.pe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\BE\ctre_netmf_native.pe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\LE\CTRE.pdbx
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\LE\ctre_netmf_native.pdbx
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\BE\CTRE.pdbx
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\BE\ctre_netmf_native.pdbx
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\CTRE.dll
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\ctre_netmf_native.dll
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\CTRE.pdb
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\bin\Debug\ctre_netmf_native.pdb
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\be\Semmelweis Drive.pe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\be\Semmelweis Drive.pdbx
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\le\Semmelweis Drive.pe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\le\Semmelweis Drive.pdbx
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\Semmelweis Drive.csproj.CopyComplete
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\Semmelweis Drive.exe
+C:\Users\rwk\source\repos\Semmelweis Drive\Semmelweis Drive\obj\Debug\Semmelweis Drive.pdb
